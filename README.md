@@ -10,6 +10,7 @@
   * Update the fetch-api-key.js with appropriate OpenAI information (Or can leave it as is if connecting to the "fake" endpoint)
   * Start the "server.js" by running "node server.js"
   * Run blackjack.html to start the APP
+  * Click on Shuffle & Deal to start the game
 
 
 ![image](https://github.com/user-attachments/assets/fcd87c7a-7aeb-485d-bce0-60fddf68860b)
