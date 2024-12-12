@@ -329,7 +329,7 @@ aiButton.addEventListener('click', function() {
   console.log(inputText)
   try {
 
-    fetch('http://localhost:3000/api/openai/blackjack', {
+    fetch('http://localhost:3000/api/openai/fake', {
       method: 'POST',
       headers: {
           'Content-Type': 'application/json',
