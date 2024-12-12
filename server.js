@@ -20,8 +20,8 @@ app.post('/api/openai/travel', async (req, res) => {
     console.log(req.body);
 
     const options = {
-        hostname: 'bcai-test.web.boeing.com',
-        path: '/bcai-public-api/conversation',
+        hostname: 'openai-test.web.abc.com',
+        path: '/openai-public-api/conversation',
         method: 'POST',
         headers: {
           'accept': 'application/json',
